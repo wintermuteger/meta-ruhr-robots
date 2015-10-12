@@ -1,5 +1,5 @@
 DESCRIPTION = "fswebcam - Small and simple webcam software for *nix"
-LICENSE = "GPLv3+"
+LICENSE = "GPLv2"
 LIC_FILES_CHKSUM="file://../fswebcam-20140113/LICENSE;md5=393a5ca445f6965873eca0259a17f833"
 
 SRC_URI = "http://www.firestorm.cx/fswebcam/files/fswebcam-20140113.tar.gz"
